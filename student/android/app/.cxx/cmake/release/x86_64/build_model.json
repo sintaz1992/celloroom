@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/sina/cellulo-flutter/android",
+      "sdkFolder": "/home/sina/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/sina/cellulo-flutter/build/app/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/sina/cellulo-flutter/android/app",
+      "makeFile": "/home/sina/cellulo-flutter/android/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/sina/cellulo-flutter/android/.cxx",
+      "cxxFolder": "/home/sina/cellulo-flutter/android/app/.cxx",
+      "ndkFolder": "/home/sina/Android/Sdk/ndk/21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "/home/sina/cellulo-flutter/build/app/intermediates/cmake/release/lib",
+    "objFolder": "/home/sina/cellulo-flutter/build/app/intermediates/cmake/release/obj",
+    "jsonFolder": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86_64",
+  "jsonFile": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64",
+  "objFolder": "/home/sina/cellulo-flutter/build/app/intermediates/cmake/release/obj/x86_64",
+  "buildCommandFile": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86_64/build_command.txt",
+  "buildOutputFile": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86_64/build_output.txt",
+  "modelOutputFile": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/sina/cellulo-flutter/android/app/.cxx/cxx/release/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86_64/compile_commands.json"
+}

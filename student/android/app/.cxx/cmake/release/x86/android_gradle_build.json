@@ -1,0 +1,35 @@
+
+{
+	"buildFiles" : [ "/home/sina/cellulo-flutter/android/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/home/sina/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/sina/cellulo-flutter/android/app/.cxx/cmake/release/x86 --target clean"
+	],
+	"libraries" : 
+	{
+		"libcellulo-unity-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libcellulo-unity",
+			"buildType" : "release",
+			"output" : "/home/sina/cellulo-flutter/android/app/libs/x86/libcellulo-unity.so",
+			"toolchain" : "4378780279738656686"
+		},
+		"libnative_add-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libnative_add",
+			"buildType" : "release",
+			"output" : "/home/sina/cellulo-flutter/android/app/libs/x86/libnative_add.so",
+			"toolchain" : "4378780279738656686"
+		}
+	},
+	"toolchains" : 
+	{
+		"4378780279738656686" : 
+		{
+			"cCompilerExecutable" : "/home/sina/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/sina/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

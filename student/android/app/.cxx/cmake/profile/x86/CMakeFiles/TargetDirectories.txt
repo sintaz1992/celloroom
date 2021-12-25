@@ -1,0 +1,2 @@
+/home/sina/studentAndroid/celloroom/student/android/app/.cxx/cmake/profile/x86/CMakeFiles/edit_cache.dir
+/home/sina/studentAndroid/celloroom/student/android/app/.cxx/cmake/profile/x86/CMakeFiles/rebuild_cache.dir

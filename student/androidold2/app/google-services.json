@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975540289349",
+    "firebase_url": "https://rasmo-bdef7.firebaseio.com",
+    "project_id": "rasmo-bdef7",
+    "storage_bucket": "rasmo-bdef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975540289349:android:4d3e4a4f7870752bbbc82c",
+        "android_client_info": {
+          "package_name": "com.example.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975540289349-8bbeoj7vgotveent9ju08tg5sabkfam1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9qAapYDj80G1qFgAS8djn-um9SOx7WvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975540289349-8bbeoj7vgotveent9ju08tg5sabkfam1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/sina/cellulo-flutter/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
